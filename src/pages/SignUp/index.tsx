@@ -20,6 +20,7 @@ const SignUp: React.FC = () => {
 
   const handleSubmit = useCallback(async (data: object) => {
     try {
+      /* eslint-disable no-unused-expressions */
       formRef.current?.setErrors({})
 
       const schema = Yup.object().shape({
