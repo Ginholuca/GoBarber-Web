@@ -1,1 +1,1 @@
-### GoBarber
+### GoBarber Web
