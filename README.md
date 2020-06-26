@@ -1,2 +1,2 @@
 ### GoBarber Web
-Aplicação em desenvolvimento.
+Application under development.
